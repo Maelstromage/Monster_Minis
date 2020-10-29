@@ -1,0 +1,231 @@
+{
+	"w": 5,
+	"h": 3,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 4,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 4,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "PHB",
+				"u": "splint%20armor_phb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "PHB",
+				"u": "minor%20illusion_phb"
+			}
+		},
+		{
+			"x": 4,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 3,
+			"s": {
+				"x": "Gibble - Gnome with dogsled\n"
+			}
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 2,
+			"t": 5,
+			"s": {
+				"r": [
+					{
+						"n": "Eldon",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "12",
+						"a": 1,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Robin",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "11",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Veteran",
+						"k": [],
+						"h": "58",
+						"g": "58",
+						"i": "4",
+						"a": 0,
+						"s": "MM",
+						"c": [],
+						"v": false
+					},
+					{
+						"n": "Linn",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "3",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Snowy Owlbear",
+						"k": [],
+						"h": "59",
+						"g": "59",
+						"i": "2",
+						"a": 0,
+						"s": "IDRotF",
+						"c": [],
+						"v": false
+					}
+				],
+				"s": "NUMBER",
+				"d": "DESC",
+				"m": false,
+				"g": true,
+				"p": true,
+				"a": false,
+				"k": false,
+				"piHp": false,
+				"piHm": false,
+				"piV": true,
+				"piO": false,
+				"piS": true,
+				"c": [],
+				"n": "1"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 2,
+			"h": 3,
+			"t": 13,
+			"c": {
+				"a": "IDRotF",
+				"c": 1
+			}
+		}
+	],
+	"ex": [
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "frost%20giant_mm"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 2,
+			"h": 3,
+			"t": 3,
+			"s": {
+				"x": "Get inspiration from Zelda \n\nMaybe a link to the past, have it so that they can get through things by crossing back and forth between the shadow plane and feywild. Like ALthP dark world and light world. \n\nThe Fomorians might be resurrecting a great evil, someone like Gannon. \n\nArea with Ley Lines intersecting \n\nAny Spell cast can be cast at the next highest level that would increase power without using a spell slot of that level. \n\nCast a spell that would expend components has a 50% chance not to consume it \n\nRegain All spell slots on a short rest at this site. \n\nArchfey \n\nNeed to build charaters \n\nPrince of Hearts wants to reunite Tawson and Poe. \n\nPrince of frost if questioned about Gaia will say he doesn’t know if she is the one he has or not. \n\nIf pressed he will offer up a firbolg waiter and say one is as good as another. \n\nHe sees them as slaves or servants. \n\nNightwoods are from the Feywild \n\nAhenmiriel \n\nMade Birel Blind \n\nGaia's Family Ancestors are from the feywild \n\nThey had the stickball, which needs a new name \n\nQueue cards for play, they have to remember whose line is whose \n\nOn the road to the Court of Stars \n\nShe sees a nightwalker off in the distance as she wonders through the castle \n\nShe finds the satyr and other dancers frozen in his foyer \n\nShe meets a few other firbolgs \n\nName1 \n\nName2 \n\nName3 \n\nThrow a Leshay \n\nCourt of Stars \n\nNotable Fey \n\nTiandra \n\nGraceful and beautiful \n\nTiandra appears as an eladrin of great beauty, with honey-colored skin and hair that shimmers through all the colors of autumn leaves.  \n\nHer eyes shine golden, like the sun \n\nHer gaze alone can drive people mad. \n\nPalace of Senaliesse is her domain \n\nWith a smile she can ripen a crop and with a frown summon wildfieres. \n\nShe has Barons \n\n \n\nPrince of Frost \n\nGreen Lord Oran \n\nLooks like an elf but a head taller and far more muscular \n\nJet black eyes \n\nFace is color of oak, hair looks like messy straw and brambles made into long braids \n\nOran is attuned to every branch and bough every stream and forest of the Feywild \n\nHas the loyalty of many treants dryads and satyrs \n\nFey who pledge their fealty to him are Green Fey \n\nWas on and off lovers with Tiandra, on and off rivals \n\nMany archfey are Green Fey \n\nCat Lord \n\nMonkey King \n\nBaba Yaga \n\nSatyr Prince Hyrsam \n\nPrince of Fools \n\nMischievous trickster \n\nUses guil and savagry to further goals \n\nHandsome mop of curly hair dark intellgent eyes fair face \n\nSimple clothing \n\nFormal when visiting fey courts \n\nNot a fool, manipulative \n\nAnarchist wants the fey wild to be without civilization \n\nCan produce music to charm others \n\nImmortal if slain would reaapear elsewhere \n\nAlways has a fiddle and a horn of reveiry \n\nPlays music to sew contention between fey \n\nSon of Oran \n\nBorn of the first note incarnation of music itself \n\nElias  \n\nclams his domain in the shallows the rivers and lakes, shoreline reefs \n\nQuick to laugh and loves music \n\nSiobhan (Not there at party) \n\nMelancholy, rules deep oceans and rarely leaves her underwater city \n\nLets Elias act as ambassador \n\nGuardian of the ocean \n\nSlow to anger \n\nCan summon hurricans waterspouts tidal waves \n\nMaiden of the Moon \n\nFormidable hunter who carries a silver sword that can cut through nightmares. \n\nWages a ware against lycanthropes and other savage killers \n\nShe is benevolent toward mortals \n\nThere is a protal to her sanctum on the moon \n\nPrince of Hearts is an eladrin archfey \n\nDedicated to beauty gallantry and love \n\nHas been known to reunite lovers who have been ripped away by circumstance. \n\nHe loves bring two mortals together and if they hate each other he loves it even more. \n\nWitch of Fates \n\nPowerful oracle \n\nAt hieght of Cenriane's might and glory she came dressed in black mourning to speak a dreadful prophecy against the city. \n\nLady Shandria an Eladrin warlords distant niece of Queen Tiandra. \n\nAramath Teldorm \n\nAramath is an eladrin swordsmith and armorer of great renown \n\n \n\n \n\n \n\nPrince of Frost Quest \n\nDoes not want to release Gaia will offer party a different firbolg \n\nIf pressed will release her if she can go to retrieve the a trinket, a trifle, a golden ring that means very much to him, it is really the \"Ring of Winter\" \n\nHe knows it is located with a halfling named Percival Bluebottle \n\nPercival father Jackson Bluebottle who found the ring inside a trout while ice fishing \n\nHe kept it a trunk in his house and forgot about it for 30 years \n\nThe prince of frost one day came looking for the ring \n\nHis Winter Wolf Sebastian openly talked about it. \n\nSebastian suggested maybe the Summer Queen destroyed it. \n\nPrince of Frost wants to use it to turn all he sees to winter \n\nPrince of frost asked the people of that shire and no one answered him \n\nHe extended his domain to that shire turning into a ceaseless winter \n\nPercival was on his way to bring it to the Summer Queen when was captured by a slave trading fomorian, he is now in Mag Tureah \n\nHe was captured by King Bronnor and traded to King Thrumbgolg \n\nHe was a valuble trade because of how well he knows Divination Magic \n\nBecause he has been holding on to the ring he has turned a pale blue and his hair is a deep cold blue which is unusual for Halflings. \n\nThe Prince does not let on to how powerful the ring is, he just asks for it to be brought back to him and in exchange Gaia can have her freedom. \n\nHas encased her friends in ice so that she could not hang out with them anymore. \n\nThey stole from him. \n\nHas a Nightwalker follow the party to keep tabs on them. \n\nVampire Kannoth in Cendriane \n\nHas a tunnel to get to Mag Tureah but will only let the players enter if they perform a quest for him.  \n\nKannoth plagued the village, he comes every full moon to drink the blood of Derek Cobblebottom's wife Irah. \n\nDerek traveled to the Vampire tower to beg that his wife be released from this pain, Kannoth asked what he offered in exchange. Derek had nothing to offer. Kannoth said then he will have his firstborn daughter. \n\nKannoth exclaimed on the child's 16 birthday he would claim her. \n\nDerek went home and let his wife know they can never have a child. Saddened though through years she forgot.  \n\nThough many years later Irah found she was with child. Though not all hope was lost it could be a boy, but it was not.  \n\nKannoth came to see the child the night she was born, they refused him entrance to see the child. \n\nIrah went to an old hag in the marsh and asked for protection against the vampire, blessed the child for is he only wears rags the vampire will not be able to find the villiage. Also she demands a sacrifice of the fattest lamb on the full moons night. The blood needs to be drained and left in a bowl at the edge of town. \n\nIn exchange she wanted the womans heart, which she turned to stone and keeps. The woman came back home and now is catatonic. \n\nOne full moon they did not leave the blood, and the had terrible nightmares. The next day they sacrificed the lamb. \n\nNeigboring city will trade the amulet if the players help lift a curse from a trio of hags that have ticked the city \n\nCurse was put in place by baba Yaga, killing the hags will not restore the city. \n\nWerewolfs will admit entry to go to talk to king Bronnor  \n\nWerewolfs want players to go hunt down and kill a group of werewolfs who have been hunting outside the grounds \n\nWant players to make it seem like the vampire did it. That way all will remain peaceful. \n\nThey plot to kill the Maiden of the Moon. "
+			}
+		},
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "DMG",
+				"u": "wand%20of%20wonder_dmg"
+			}
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "PHB",
+				"u": "greater%20restoration_phb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "DMG",
+				"u": "broom%20of%20flying_dmg"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "PHB",
+				"u": "gust%20of%20wind_phb"
+			}
+		}
+	]
+}
